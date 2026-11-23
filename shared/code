@@ -1,0 +1,1 @@
+holds definitions that both the frontend and backend use. For ZAGROS, that includes what information a Flight contains: callsign, altitude, speed and state. This keeps both sides using the same format.
