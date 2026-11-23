@@ -1,0 +1,4 @@
+holds code that automatically checks whether your program works correctly. For example:
+- A blocked runway rejects landing clearance.
+- An accepted clearance updates the flight’s status.
+- Searching the radio log returns the correct flight’s records.
